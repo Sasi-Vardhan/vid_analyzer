@@ -1,0 +1,8 @@
+streamlit==1.39.0 
+pytube==15.0.0
+ moviepy==1.0.3 
+ transformers==4.46.0 
+ torch==2.4.1 
+ pydub==0.25.1 
+ yt-dlp==2024.10.22 
+ ffmpeg-python==0.2.0
